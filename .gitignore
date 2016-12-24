@@ -2,3 +2,4 @@
 .theos
 
 *.ai
+.DS_STORE
