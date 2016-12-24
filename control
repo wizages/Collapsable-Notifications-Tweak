@@ -1,0 +1,9 @@
+Package: com.dbigboss.notificationwidget
+Name: NotificationWidget
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wizages <wizagesmax@gmail.com>
+Author: wizages <wizagesmax@gmail.com>
+Section: Tweaks
